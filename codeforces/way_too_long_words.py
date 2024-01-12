@@ -1,3 +1,4 @@
+#https://codeforces.com/problemset/problem/71/A
 n = int(input())
 for _ in range(n):
     word = input()

@@ -1,3 +1,4 @@
+# https://codeforces.com/problemset/problem/231/A
 n = int(input())
 
 cont = 0
