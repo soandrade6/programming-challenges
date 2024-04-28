@@ -1,7 +1,5 @@
-## Competitive Programming Exercises
-
 This space is dedicated to the practice of competitive programming. In this repository you will find my solution implementations for various Codeforces problems.
-
+ <!--
 Additionally, the exercises are categorized based on difficulty levels from Codeforces:
 * Easy: Beginner-friendly problems to grasp fundamental concepts.
 * Medium: Intermediate-level problems to enhance problem-solving skills.
@@ -18,3 +16,4 @@ Here is an overview of the difficulty ranges in Codeforces:
 * 2400-2700: Very difficult problems, requiring advanced skills in algorithms and data structures.
 * 2700-3000: Extremely difficult problems, reserved for very competent programmers.
 * 3000-3500+: Exceptionally difficult problems, suitable for high-level contestants and competitors in the final stages of competitions.
+-->
