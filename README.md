@@ -1,4 +1,4 @@
-This space is dedicated to practicing programming challenges. In this repository you will find my solution implementations for various Codeforces and Hackerrank issues.
+This space is dedicated to practicing programming challenges. In this repository you will find my solution implementations for various Codeforces and Hackerrank Problems.
  <!--
 Additionally, the exercises are categorized based on difficulty levels from Codeforces:
 * Easy: Beginner-friendly problems to grasp fundamental concepts.
